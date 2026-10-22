@@ -2,7 +2,7 @@
 from pathlib import Path
 import json, re, sys
 root=Path(sys.argv[1] if len(sys.argv)>1 else '.')
-required=['index.html','styles.css','script.js','content/story.json','image-sources/real-photo-manifest.json','credits.html','CREDITS.md']
+required=['index.html','styles.css','script.js','favicon.svg','content/story.json','image-sources/real-photo-manifest.json','credits.html','CREDITS.md']
 missing=[p for p in required if not (root/p).exists()]
 if missing: raise SystemExit(f"missing files: {missing}")
 story=json.loads((root/'content/story.json').read_text())
