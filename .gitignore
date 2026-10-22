@@ -1,0 +1,5 @@
+.vercel/
+qa/
+*.log
+.env
+.DS_Store

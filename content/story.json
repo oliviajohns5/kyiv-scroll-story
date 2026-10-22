@@ -1,0 +1,139 @@
+{
+  "title": "Kyiv \u2014 City Above the River",
+  "subtitle": "Seven scenes through water, gold, stone, streets, and a city that keeps becoming.",
+  "chapters": [
+    {
+      "id": "dnipro",
+      "number": "01",
+      "eyebrow": "The river",
+      "title": "Before the Streets",
+      "period": "Before the city",
+      "place": "The Dnipro hills",
+      "side": "left",
+      "palette": [
+        "#071a22",
+        "#668f8b",
+        "#e8b55b"
+      ],
+      "text": "Kyiv begins with geography: a wide river, steep green hills, islands, mist, and paths climbing from the water. Long before domes defined the skyline, the Dnipro gave the city its horizon and its direction.",
+      "image_alt": "A painterly dawn view over the Dnipro River and Kyiv's green hills",
+      "image_prompt": "Premium cinematic Ukrainian ink-and-gouache painting on warm textured paper, restrained cobalt blue, moss green and antique gold palette, delicate architectural linework, atmospheric mist, layered depth, poetic editorial composition, natural light, subtle paper grain, no text, no letters, no logos, no watermark, no UI, visually consistent series for a luxury scroll-driven web story. Scene: dawn over the broad Dnipro River before the modern city, high green Kyiv hills, small islands and quiet water catching pale gold light, drifting mist, distant suggestion of a settlement, contemplative and spacious. Wide landscape composition, clear darker negative space on the left for overlaid copy, accurate Ukrainian geography without flags or fantasy landmarks.",
+      "image": "/assets/generated/dnipro-desktop.jpg",
+      "mobile_image": "/assets/generated/dnipro-mobile.jpg"
+    },
+    {
+      "id": "golden-gate",
+      "number": "02",
+      "eyebrow": "The threshold",
+      "title": "The Golden Gate",
+      "period": "11th century",
+      "place": "Old Kyiv",
+      "side": "right",
+      "palette": [
+        "#172119",
+        "#a97837",
+        "#f0d58a"
+      ],
+      "text": "In the age of Yaroslav the Wise, Kyiv announced itself through walls, gates, and sacred buildings. The Golden Gate was both defence and ceremony: an entrance designed to turn arrival into an event.",
+      "image_alt": "An artistic reconstruction of Kyiv's Golden Gate in the eleventh century",
+      "image_prompt": "Premium cinematic Ukrainian ink-and-gouache painting on warm textured paper, restrained cobalt blue, moss green and antique gold palette, delicate architectural linework, atmospheric mist, layered depth, poetic editorial composition, natural light, subtle paper grain, no text, no letters, no logos, no watermark, no UI, visually consistent series for a luxury scroll-driven web story. Scene: an historically grounded poetic reconstruction of Kyiv's Golden Gate in the 11th century, monumental timber-and-earth fortification with stone gateway church, travellers approaching through autumn grass, warm late-afternoon light, sense of threshold and civic confidence. Wide landscape composition, clear darker negative space on the right for overlaid copy, no modern objects, no fantasy castle.",
+      "image": "/assets/generated/golden-gate-desktop.jpg",
+      "mobile_image": "/assets/generated/golden-gate-mobile.jpg"
+    },
+    {
+      "id": "sophia",
+      "number": "03",
+      "eyebrow": "The light within",
+      "title": "Sophia\u2019s Gold",
+      "period": "11th century \u2192 today",
+      "place": "Saint Sophia Cathedral",
+      "side": "left",
+      "palette": [
+        "#14233a",
+        "#bd8d39",
+        "#f5dda0"
+      ],
+      "text": "Inside Saint Sophia, stone dissolves into image. Mosaics, frescoes, candlelight, and centuries of repair make the cathedral less a frozen monument than a surface continuously remembered.",
+      "image_alt": "A luminous painterly view of the mosaics inside Saint Sophia Cathedral in Kyiv",
+      "image_prompt": "Premium cinematic Ukrainian ink-and-gouache painting on warm textured paper, restrained cobalt blue, moss green and antique gold palette, delicate architectural linework, atmospheric mist, layered depth, poetic editorial composition, natural light, subtle paper grain, no text, no letters, no logos, no watermark, no UI, visually consistent series for a luxury scroll-driven web story. Scene: reverent interior inspired by Saint Sophia Cathedral in Kyiv, ancient gold mosaics and fresco fragments, candle glow, soaring arches, dust floating in shafts of blue morning light, the Orans mosaic suggested respectfully in the distance, intimate rather than touristic. Wide landscape composition, darker negative space on the left for copy, historically sensitive, no crowds.",
+      "image": "/assets/generated/sophia-desktop.jpg",
+      "mobile_image": "/assets/generated/sophia-mobile.jpg"
+    },
+    {
+      "id": "podil",
+      "number": "04",
+      "eyebrow": "The lived city",
+      "title": "Down to Podil",
+      "period": "18th\u201319th centuries",
+      "place": "Andriivskyi Descent",
+      "side": "right",
+      "palette": [
+        "#242130",
+        "#b98772",
+        "#f1cda5"
+      ],
+      "text": "The descent bends between fa\u00e7ades, courtyards, studios, and views toward Podil. Here Kyiv feels theatrical and domestic at once: a city discovered not from a plan, but one doorway and one slope at a time.",
+      "image_alt": "Andriivskyi Descent in Kyiv rendered as an elegant ink-and-gouache painting",
+      "image_prompt": "Premium cinematic Ukrainian ink-and-gouache painting on warm textured paper, restrained cobalt blue, moss green and antique gold palette, delicate architectural linework, atmospheric mist, layered depth, poetic editorial composition, natural light, subtle paper grain, no text, no letters, no logos, no watermark, no UI, visually consistent series for a luxury scroll-driven web story. Scene: Andriivskyi Descent curving downhill toward Podil after a light rain, historic pastel facades, cobblestones reflecting evening lamps, chestnut branches, a few small human silhouettes, Saint Andrew's Church glimpsed high behind, intimate bohemian atmosphere. Wide landscape composition, darker negative space on the right for copy, no cars dominating the scene.",
+      "image": "/assets/generated/podil-desktop.jpg",
+      "mobile_image": "/assets/generated/podil-mobile.jpg"
+    },
+    {
+      "id": "chimaeras",
+      "number": "05",
+      "eyebrow": "The unexpected",
+      "title": "A House That Dreams",
+      "period": "1901\u20131903",
+      "place": "House with Chimaeras",
+      "side": "left",
+      "palette": [
+        "#101c1e",
+        "#6d9188",
+        "#d5b17c"
+      ],
+      "text": "Horodecki\u2019s house turns the respectable city into a strange bestiary. Rhinoceroses, frogs, elephants, and sea creatures climb across concrete, proving that Kyiv\u2019s architectural memory also has room for wit and dreams.",
+      "image_alt": "The House with Chimaeras in Kyiv in a moody painterly style",
+      "image_prompt": "Premium cinematic Ukrainian ink-and-gouache painting on warm textured paper, restrained cobalt blue, moss green and antique gold palette, delicate architectural linework, atmospheric mist, layered depth, poetic editorial composition, natural light, subtle paper grain, no text, no letters, no logos, no watermark, no UI, visually consistent series for a luxury scroll-driven web story. Scene: Kyiv's House with Chimaeras at blue hour, accurate Art Nouveau facade emerging from chestnut leaves and fine rain, sculpted elephants, frogs and mythical creatures visible but elegant, wet pavement, a single warm window, uncanny yet refined. Wide landscape composition, darker negative space on the left for copy, no horror imagery.",
+      "image": "/assets/generated/chimaeras-desktop.jpg",
+      "mobile_image": "/assets/generated/chimaeras-mobile.jpg"
+    },
+    {
+      "id": "metro",
+      "number": "06",
+      "eyebrow": "The city in motion",
+      "title": "Under the Hills",
+      "period": "1960 \u2192 today",
+      "place": "Arsenalna and the metro",
+      "side": "right",
+      "palette": [
+        "#111827",
+        "#4d7194",
+        "#dfb66f"
+      ],
+      "text": "Kyiv\u2019s metro stitches together riverbanks and high ground. Long escalators descend through geology; trains emerge onto bridges; everyday movement becomes a hidden architecture beneath the historic city.",
+      "image_alt": "A cinematic painterly interpretation of Kyiv's deep metro escalators",
+      "image_prompt": "Premium cinematic Ukrainian ink-and-gouache painting on warm textured paper, restrained cobalt blue, moss green and antique gold palette, delicate architectural linework, atmospheric mist, layered depth, poetic editorial composition, natural light, subtle paper grain, no text, no letters, no logos, no watermark, no UI, visually consistent series for a luxury scroll-driven web story. Scene: a dramatic deep Kyiv metro escalator inspired by Arsenalna, repeating warm lights descending into cobalt shadow, a few commuters as small silhouettes, subtle cutaway suggestion of green hills and river far above, rhythm, depth and daily motion. Wide landscape composition, darker negative space on the right for copy, accurate postwar modernist atmosphere, no signage or readable text.",
+      "image": "/assets/generated/metro-desktop.jpg",
+      "mobile_image": "/assets/generated/metro-mobile.jpg"
+    },
+    {
+      "id": "maidan",
+      "number": "07",
+      "eyebrow": "The living square",
+      "title": "A City That Returns",
+      "period": "Now",
+      "place": "Independence Square",
+      "side": "left",
+      "palette": [
+        "#111b32",
+        "#527bb2",
+        "#f0c65b"
+      ],
+      "text": "Kyiv is not a finished monument. It is morning coffee after a difficult night, voices returning to the square, chestnuts flowering again, and the Dnipro still carrying light past the hills.",
+      "image_alt": "A hopeful dusk view of Independence Square and Kyiv's skyline",
+      "image_prompt": "Premium cinematic Ukrainian ink-and-gouache painting on warm textured paper, restrained cobalt blue, moss green and antique gold palette, delicate architectural linework, atmospheric mist, layered depth, poetic editorial composition, natural light, subtle paper grain, no text, no letters, no logos, no watermark, no UI, visually consistent series for a luxury scroll-driven web story. Scene: contemporary Kyiv at blue-and-gold dusk seen across Independence Square, recognisable open civic space, soft city lights, chestnut blossoms in foreground, people returning to ordinary life, distant skyline and a suggestion of the Dnipro light beyond the hills, dignified, resilient, hopeful and calm. Wide landscape composition, darker negative space on the left for copy, no military imagery, no flags dominating, no destruction.",
+      "image": "/assets/generated/maidan-desktop.jpg",
+      "mobile_image": "/assets/generated/maidan-mobile.jpg"
+    }
+  ]
+}

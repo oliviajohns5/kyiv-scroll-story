@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#08161d">
+  <meta name="description" content="A cinematic scroll-driven journey through Kyiv, Ukraine — from the Dnipro hills to the living city of today.">
+  <title>Kyiv — City Above the River</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;650;750&family=Prata&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <noscript><p class="noscript">Enable JavaScript for the scroll camera. The complete readable story remains below.</p></noscript>
+  <header class="topbar">
+    <a class="brand" href="#intro" aria-label="Return to the beginning"><i></i><span>KYIV</span><small>місто над Дніпром</small></a>
+    <div class="top-progress" aria-hidden="true"><i id="progressBar"></i></div>
+    <button class="chapters-button" id="chaptersButton" type="button" aria-expanded="false" aria-controls="chapterMenu">Chapters</button>
+  </header>
+
+  <aside class="chapter-menu" id="chapterMenu" aria-hidden="true">
+    <button class="menu-close" type="button" aria-label="Close chapter menu">×</button>
+    <p>Seven views of Kyiv</p>
+    <nav id="chapterNav" aria-label="Story chapters"></nav>
+  </aside>
+
+  <main>
+    <section class="intro" id="intro">
+      <picture class="intro-image" aria-hidden="true">
+        <source media="(max-width: 760px)" srcset="/assets/generated/dnipro-mobile.jpg">
+        <img src="/assets/generated/dnipro-desktop.jpg" alt="">
+      </picture>
+      <div class="intro-wash"></div>
+      <div class="intro-copy">
+        <p class="overline">An illustrated journey through Kyiv, Ukraine</p>
+        <p class="ukrainian">КИЇВ</p>
+        <h1>City Above<br>the River</h1>
+        <p class="lede">Seven scenes through water, gold, stone, streets, and a city that keeps becoming.</p>
+        <a class="enter" href="#dnipro">Begin the journey <span>↓</span></a>
+      </div>
+      <p class="scroll-cue">Scroll slowly <span></span></p>
+    </section>
+
+    <section class="story-scroll" id="storyScroll" aria-label="Scroll-driven Kyiv story">
+      <div class="stage" id="stage">
+        <div class="scene-stack" id="sceneStack"></div>
+        <div class="paper-grain" aria-hidden="true"></div>
+        <div class="mist mist-one" aria-hidden="true"></div>
+        <div class="mist mist-two" aria-hidden="true"></div>
+        <article class="story-card" id="storyCard" aria-live="polite"></article>
+        <div class="chapter-dots" id="chapterDots" aria-label="Chapter navigation"></div>
+        <div class="chapter-counter" id="chapterCounter"></div>
+        <p class="gesture-note">scroll to travel</p>
+      </div>
+    </section>
+
+    <section class="static-story" id="staticStory" aria-label="Readable version of the story"></section>
+
+    <section class="outro" id="outro">
+      <div class="outro-inner">
+        <p class="overline">The river continues</p>
+        <h2>Kyiv is never only one century.</h2>
+        <p>It is a city layered rather than replaced: ancient ground beneath modern movement, gold beside concrete, memory beside daily life.</p>
+        <div class="outro-actions">
+          <a class="enter" href="#intro">Return to the river <span>↑</span></a>
+          <a class="source-link" href="https://github.com/oliviajohns5/kyiv-scroll-story">View source</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="/script.js"></script>
+</body>
+</html>
