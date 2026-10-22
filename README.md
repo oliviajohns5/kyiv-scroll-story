@@ -17,3 +17,5 @@ npm run serve
 ```
 
 Artwork generation is restricted to the five models listed in `image-generation/allowed-models.json`.
+
+Deployment is Git-linked to Vercel from the main branch.
