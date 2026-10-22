@@ -1,0 +1,201 @@
+{
+  "style": "Monochrome photographic retouch. Geometry is preserved from the credited source photographs; no generative image synthesis.",
+  "scenes": {
+    "dnipro": {
+      "desktop": {
+        "title": "File:Панорама на Днепр и Подол - Panorama of the Dnieper and Podol (9644947002).jpg",
+        "width": 4347,
+        "height": 1479,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%94%D0%BD%D0%B5%D0%BF%D1%80_%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB_-_Panorama_of_the_Dnieper_and_Podol_%289644947002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%94%D0%BD%D0%B5%D0%BF%D1%80_%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB_-_Panorama_of_the_Dnieper_and_Podol_%289644947002%29.jpg/960px-%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%94%D0%BD%D0%B5%D0%BF%D1%80_%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB_-_Panorama_of_the_Dnieper_and_Podol_%289644947002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%94%D0%BD%D0%B5%D0%BF%D1%80_%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB_-_Panorama_of_the_Dnieper_and_Podol_(9644947002).jpg",
+        "license": "CC BY-SA 2.0",
+        "artist": "spoilt.exile from Kiev, Ukraine",
+        "credit": "Панорама на Днепр и Подол / Panorama of the Dnieper and Podol",
+        "description": "Панорама на Днепр и Подол / Panorama of the Dnieper and Podol",
+        "candidate_index": 8
+      },
+      "mobile": {
+        "title": "File:Monument to the Motherland, Dnipro River and Kyiv Sunset.jpg",
+        "width": 960,
+        "height": 1280,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Monument_to_the_Motherland%2C_Dnipro_River_and_Kyiv_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Monument_to_the_Motherland%2C_Dnipro_River_and_Kyiv_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Monument_to_the_Motherland,_Dnipro_River_and_Kyiv_Sunset.jpg",
+        "license": "CC BY 2.0",
+        "artist": "Vladimir Agafonkin",
+        "credit": "https://www.flickr.com/photos/mourner/3324064168/",
+        "description": "Taken from the Paton bridge in Kiev, 2007.",
+        "candidate_index": 2
+      }
+    },
+    "golden-gate": {
+      "desktop": {
+        "title": "File:Golden Gate Kiev 2018 G1.jpg",
+        "width": 5120,
+        "height": 3616,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Golden_Gate_Kiev_2018_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Golden_Gate_Kiev_2018_G1.jpg/960px-Golden_Gate_Kiev_2018_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Kiev_2018_G1.jpg",
+        "license": "Public domain",
+        "artist": "George Chernilevsky",
+        "credit": "Own work",
+        "description": "The Golden Gates of Kyiv, Ukraine",
+        "candidate_index": 6
+      },
+      "mobile": {
+        "title": "File:Golden Gate Kiev 2018 G1.jpg",
+        "width": 5120,
+        "height": 3616,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Golden_Gate_Kiev_2018_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Golden_Gate_Kiev_2018_G1.jpg/960px-Golden_Gate_Kiev_2018_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Kiev_2018_G1.jpg",
+        "license": "Public domain",
+        "artist": "George Chernilevsky",
+        "credit": "Own work",
+        "description": "The Golden Gates of Kyiv, Ukraine",
+        "candidate_index": 6
+      }
+    },
+    "sophia": {
+      "desktop": {
+        "title": "File:Kyiv-Saint Sophia Cathedral-east view.jpg",
+        "width": 5278,
+        "height": 3519,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kyiv-Saint_Sophia_Cathedral-east_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Kyiv-Saint_Sophia_Cathedral-east_view.jpg/960px-Kyiv-Saint_Sophia_Cathedral-east_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Kyiv-Saint_Sophia_Cathedral-east_view.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Galvm",
+        "credit": "Own work",
+        "description": "Софійський собор (I пол. XI ст., кін. XVII ст. — поч. XVIII ст., кін. XIX ст.) - вигляд зі сходу - Київ (вул. Володимирська, 24) Україна",
+        "candidate_index": 4
+      },
+      "mobile": {
+        "title": "File:Saint Sophia cathedral in Kyiv, april-2022 (3).jpg",
+        "width": 1844,
+        "height": 2664,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Saint_Sophia_cathedral_in_Kyiv%2C_april-2022_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Saint_Sophia_cathedral_in_Kyiv%2C_april-2022_%283%29.jpg/960px-Saint_Sophia_cathedral_in_Kyiv%2C_april-2022_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Saint_Sophia_cathedral_in_Kyiv,_april-2022_(3).jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Xsandriel",
+        "credit": "Own work",
+        "description": "Ансамбль Софії Київської, Київ, вул. Володимирська, 24",
+        "candidate_index": 7
+      }
+    },
+    "podil": {
+      "desktop": {
+        "title": "File:Andriivskyi Descent, Kyiv.jpg",
+        "width": 1800,
+        "height": 1350,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Andriivskyi_Descent%2C_Kyiv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Andriivskyi_Descent%2C_Kyiv.jpg/960px-Andriivskyi_Descent%2C_Kyiv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Andriivskyi_Descent,_Kyiv.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Maksym Kozlenko",
+        "credit": "Own work",
+        "description": "Andriivskyi Descent, Kyiv",
+        "candidate_index": 1
+      },
+      "mobile": {
+        "title": "File:Night Andriyivskyy Descent.jpg",
+        "width": 3166,
+        "height": 4000,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Night_Andriyivskyy_Descent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Night_Andriyivskyy_Descent.jpg/960px-Night_Andriyivskyy_Descent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Night_Andriyivskyy_Descent.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Wavemeart",
+        "credit": "Own work",
+        "description": "Andriivskyi Descent. Kiev",
+        "candidate_index": 7
+      }
+    },
+    "chimaeras": {
+      "desktop": {
+        "title": "File:House with Chimaeras, Kyiv (2019-06-29) 01.jpg",
+        "width": 4128,
+        "height": 3096,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/House_with_Chimaeras%2C_Kyiv_%282019-06-29%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/House_with_Chimaeras%2C_Kyiv_%282019-06-29%29_01.jpg/960px-House_with_Chimaeras%2C_Kyiv_%282019-06-29%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:House_with_Chimaeras,_Kyiv_(2019-06-29)_01.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Oleh Kushch",
+        "credit": "Own work",
+        "description": "Будинок житловий, Київ, Банкова вул., 10",
+        "candidate_index": 1
+      },
+      "mobile": {
+        "title": "File:House with Chimaeras, Kyiv (2019-06-29) 01.jpg",
+        "width": 4128,
+        "height": 3096,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/House_with_Chimaeras%2C_Kyiv_%282019-06-29%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/House_with_Chimaeras%2C_Kyiv_%282019-06-29%29_01.jpg/960px-House_with_Chimaeras%2C_Kyiv_%282019-06-29%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:House_with_Chimaeras,_Kyiv_(2019-06-29)_01.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Oleh Kushch",
+        "credit": "Own work",
+        "description": "Будинок житловий, Київ, Банкова вул., 10",
+        "candidate_index": 1
+      }
+    },
+    "metro": {
+      "desktop": {
+        "title": "File:Escalator in Kiev metro.jpg",
+        "width": 3648,
+        "height": 2736,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Escalator_in_Kiev_metro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Escalator_in_Kiev_metro.jpg/960px-Escalator_in_Kiev_metro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Escalator_in_Kiev_metro.jpg",
+        "license": "CC BY-SA 3.0",
+        "artist": "User: (WT-shared) Roundtheworld at  wts wikivoyage 13:19, 16 May 2011 (EDT)",
+        "credit": "Own work",
+        "description": "One of Kyiv's extremely long escalators on the Metro. Escalator on Kyiv Metro, Kyiv, Ukraine",
+        "candidate_index": 2
+      },
+      "mobile": {
+        "title": "File:Schody ruchome na peron stacji metra Arsenalnaia.jpg",
+        "width": 2848,
+        "height": 4288,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Schody_ruchome_na_peron_stacji_metra_Arsenalnaia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Schody_ruchome_na_peron_stacji_metra_Arsenalnaia.jpg/960px-Schody_ruchome_na_peron_stacji_metra_Arsenalnaia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Schody_ruchome_na_peron_stacji_metra_Arsenalnaia.jpg",
+        "license": "CC BY-SA 3.0",
+        "artist": "W0zny",
+        "credit": "Own work",
+        "description": "Arsenalna Metro Station in Kyiv Metro, summer of 2013.",
+        "candidate_index": 5
+      }
+    },
+    "maidan": {
+      "desktop": {
+        "title": "File:2017-05-22 Maidan Nezalezhnosti at night 3.jpg",
+        "width": 5184,
+        "height": 3456,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/2017-05-22_Maidan_Nezalezhnosti_at_night_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/2017-05-22_Maidan_Nezalezhnosti_at_night_3.jpg/960px-2017-05-22_Maidan_Nezalezhnosti_at_night_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2017-05-22_Maidan_Nezalezhnosti_at_night_3.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Maksym Kozlenko",
+        "credit": "Own work",
+        "description": "Maidan Nezalezhnosti at night",
+        "candidate_index": 8
+      },
+      "mobile": {
+        "title": "File:2017-05-22 Maidan Nezalezhnosti at night 3.jpg",
+        "width": 5184,
+        "height": 3456,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/2017-05-22_Maidan_Nezalezhnosti_at_night_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/2017-05-22_Maidan_Nezalezhnosti_at_night_3.jpg/960px-2017-05-22_Maidan_Nezalezhnosti_at_night_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2017-05-22_Maidan_Nezalezhnosti_at_night_3.jpg",
+        "license": "CC BY-SA 4.0",
+        "artist": "Maksym Kozlenko",
+        "credit": "Own work",
+        "description": "Maidan Nezalezhnosti at night",
+        "candidate_index": 8
+      }
+    }
+  }
+}
