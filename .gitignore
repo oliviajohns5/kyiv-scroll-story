@@ -6,3 +6,4 @@ qa/
 __pycache__/
 *.py[cod]
 assets/source/
+.venv*/

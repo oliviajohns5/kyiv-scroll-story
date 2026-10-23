@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 from pathlib import Path
 import json, re, sys
+from PIL import Image
 root=Path(sys.argv[1] if len(sys.argv)>1 else '.')
-required=['index.html','styles.css','script.js','favicon.svg','content/story.json','image-sources/real-photo-manifest.json','credits.html','CREDITS.md']
+required=['index.html','styles.css','script.js','favicon.svg','content/story.json','image-sources/real-photo-manifest.json','credits.html','CREDITS.md','scripts/build_inkwash.py','requirements-art.txt']
 missing=[p for p in required if not (root/p).exists()]
 if missing: raise SystemExit(f"missing files: {missing}")
 story=json.loads((root/'content/story.json').read_text())
@@ -13,7 +14,10 @@ for chapter in story['chapters']:
     for key in ('image', 'mobile_image'):
         asset = root / chapter[key].lstrip('/')
         assert asset.exists() and asset.stat().st_size > 100_000, f'missing or undersized {key}: {asset}'
-        assert '/retouched/' in chapter[key], f'live story must use real-photo retouches: {chapter[key]}'
+        assert '/inkwash/' in chapter[key], f'live story must use deterministic ink-wash art: {chapter[key]}'
+        with Image.open(asset) as image:
+            expected = (2048, 1152) if key == 'image' else (1152, 2048)
+            assert image.size == expected, f'wrong dimensions for {asset}: {image.size}'
 html=(root/'index.html').read_text()
 for token in ['viewport','description','chapterNav','staticStory']:
     assert token in html, f'missing {token}'

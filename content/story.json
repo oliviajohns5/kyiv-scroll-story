@@ -16,9 +16,9 @@
         "#e8b55b"
       ],
       "text": "Kyiv begins with geography: a wide river, steep green hills, islands, mist, and paths climbing from the water. Long before domes defined the skyline, the Dnipro gave the city its horizon and its direction.",
-      "image_alt": "A real photograph of the Dnipro River and Kyiv, finished as a monochrome editorial retouch",
-      "image": "/assets/retouched/dnipro-desktop.jpg",
-      "mobile_image": "/assets/retouched/dnipro-mobile.jpg"
+      "image_alt": "A photo-faithful ink-wash illustration of The Dnipro hills on warm rice paper",
+      "image": "/assets/inkwash/dnipro-desktop.jpg",
+      "mobile_image": "/assets/inkwash/dnipro-mobile.jpg"
     },
     {
       "id": "golden-gate",
@@ -34,9 +34,9 @@
         "#f0d58a"
       ],
       "text": "In the age of Yaroslav the Wise, Kyiv announced itself through walls, gates, and sacred buildings. The Golden Gate was both defence and ceremony: an entrance designed to turn arrival into an event.",
-      "image_alt": "A real photograph of the Golden Gate reconstruction in Kyiv, finished as a monochrome editorial retouch",
-      "image": "/assets/retouched/golden-gate-desktop.jpg",
-      "mobile_image": "/assets/retouched/golden-gate-mobile.jpg"
+      "image_alt": "A photo-faithful ink-wash illustration of Old Kyiv on warm rice paper",
+      "image": "/assets/inkwash/golden-gate-desktop.jpg",
+      "mobile_image": "/assets/inkwash/golden-gate-mobile.jpg"
     },
     {
       "id": "sophia",
@@ -52,9 +52,9 @@
         "#f5dda0"
       ],
       "text": "Inside Saint Sophia, stone dissolves into image. Mosaics, frescoes, candlelight, and centuries of repair make the cathedral less a frozen monument than a surface continuously remembered.",
-      "image_alt": "A real photograph of Saint Sophia Cathedral in Kyiv, finished as a monochrome editorial retouch",
-      "image": "/assets/retouched/sophia-desktop.jpg",
-      "mobile_image": "/assets/retouched/sophia-mobile.jpg"
+      "image_alt": "A photo-faithful ink-wash illustration of Saint Sophia Cathedral on warm rice paper",
+      "image": "/assets/inkwash/sophia-desktop.jpg",
+      "mobile_image": "/assets/inkwash/sophia-mobile.jpg"
     },
     {
       "id": "podil",
@@ -70,9 +70,9 @@
         "#f1cda5"
       ],
       "text": "The descent bends between façades, courtyards, studios, and views toward Podil. Here Kyiv feels theatrical and domestic at once: a city discovered not from a plan, but one doorway and one slope at a time.",
-      "image_alt": "A real photograph of Andriivskyi Descent in Kyiv, finished as a monochrome editorial retouch",
-      "image": "/assets/retouched/podil-desktop.jpg",
-      "mobile_image": "/assets/retouched/podil-mobile.jpg"
+      "image_alt": "A photo-faithful ink-wash illustration of Andriivskyi Descent on warm rice paper",
+      "image": "/assets/inkwash/podil-desktop.jpg",
+      "mobile_image": "/assets/inkwash/podil-mobile.jpg"
     },
     {
       "id": "chimaeras",
@@ -88,9 +88,9 @@
         "#d5b17c"
       ],
       "text": "Horodecki’s house turns the respectable city into a strange bestiary. Rhinoceroses, frogs, elephants, and sea creatures climb across concrete, proving that Kyiv’s architectural memory also has room for wit and dreams.",
-      "image_alt": "A real photograph of the House with Chimaeras in Kyiv, finished as a monochrome editorial retouch",
-      "image": "/assets/retouched/chimaeras-desktop.jpg",
-      "mobile_image": "/assets/retouched/chimaeras-mobile.jpg"
+      "image_alt": "A photo-faithful ink-wash illustration of House with Chimaeras on warm rice paper",
+      "image": "/assets/inkwash/chimaeras-desktop.jpg",
+      "mobile_image": "/assets/inkwash/chimaeras-mobile.jpg"
     },
     {
       "id": "metro",
@@ -106,9 +106,9 @@
         "#dfb66f"
       ],
       "text": "Kyiv’s metro stitches together riverbanks and high ground. Long escalators descend through geology; trains emerge onto bridges; everyday movement becomes a hidden architecture beneath the historic city.",
-      "image_alt": "A real photograph of a Kyiv metro escalator, finished as a monochrome editorial retouch",
-      "image": "/assets/retouched/metro-desktop.jpg",
-      "mobile_image": "/assets/retouched/metro-mobile.jpg"
+      "image_alt": "A photo-faithful ink-wash illustration of Arsenalna and the metro on warm rice paper",
+      "image": "/assets/inkwash/metro-desktop.jpg",
+      "mobile_image": "/assets/inkwash/metro-mobile.jpg"
     },
     {
       "id": "maidan",
@@ -124,9 +124,9 @@
         "#f0c65b"
       ],
       "text": "Kyiv is not a finished monument. It is morning coffee after a difficult night, voices returning to the square, chestnuts flowering again, and the Dnipro still carrying light past the hills.",
-      "image_alt": "A real photograph of Independence Square in Kyiv, finished as a monochrome editorial retouch",
-      "image": "/assets/retouched/maidan-desktop.jpg",
-      "mobile_image": "/assets/retouched/maidan-mobile.jpg"
+      "image_alt": "A photo-faithful ink-wash illustration of Independence Square on warm rice paper",
+      "image": "/assets/inkwash/maidan-desktop.jpg",
+      "mobile_image": "/assets/inkwash/maidan-mobile.jpg"
     }
   ]
 }

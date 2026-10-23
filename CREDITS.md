@@ -1,6 +1,6 @@
-# Photo credits
+# Artwork source credits
 
-All chapter images are non-generative monochrome retouches of real photographs. The retouching preserves the photographed geometry and applies only crop, tone, contrast, edge, paper texture, vignette, resize, and sharpening.
+Each published scene is a deterministic, non-generative ink-wash rendering of the credited licensed photograph. The renderer transforms the existing source pixels, so photographed geometry, perspective, and object positions are preserved.
 
 ## Dnipro — desktop
 - **File:** [Панорама на Днепр и Подол - Panorama of the Dnieper and Podol (9644947002).jpg](https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%94%D0%BD%D0%B5%D0%BF%D1%80_%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB_-_Panorama_of_the_Dnieper_and_Podol_(9644947002).jpg)
