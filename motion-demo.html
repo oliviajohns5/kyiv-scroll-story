@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#eee6d4">
+  <meta name="description" content="A single-screen scroll-controlled 2.5D ink-wash motion study of Kyiv's Golden Gate.">
+  <title>Golden Gate — Ink-Wash Motion Study</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;650;750&family=Prata&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/motion-demo.css">
+</head>
+<body>
+  <header class="demo-bar">
+    <a href="/" aria-label="Back to the full Kyiv story">← KYIV</a>
+    <p>2.5D MOTION STUDY · NO VIDEO</p>
+    <i><span id="progress"></span></i>
+  </header>
+
+  <main>
+    <section class="motion-scroll" id="motionScroll" aria-label="Scroll-controlled Golden Gate scene">
+      <div class="motion-stage">
+        <picture class="layer layer-bg" aria-hidden="true">
+          <source media="(max-width:760px)" srcset="/assets/motion-demo/mobile/background.jpg">
+          <img src="/assets/motion-demo/desktop/background.jpg" alt="">
+        </picture>
+        <picture class="layer layer-landmark">
+          <source media="(max-width:760px)" srcset="/assets/motion-demo/mobile/landmark.webp">
+          <img src="/assets/motion-demo/desktop/landmark.webp" alt="Ink-wash view of Kyiv's Golden Gate">
+        </picture>
+        <picture class="layer layer-foreground" aria-hidden="true">
+          <source media="(max-width:760px)" srcset="/assets/motion-demo/mobile/foreground.webp">
+          <img src="/assets/motion-demo/desktop/foreground.webp" alt="">
+        </picture>
+
+        <div class="sun-wash" aria-hidden="true"></div>
+        <div class="mist mist-a" aria-hidden="true"></div>
+        <div class="mist mist-b" aria-hidden="true"></div>
+        <div class="ink-curtain" aria-hidden="true"></div>
+        <div class="end-wash" aria-hidden="true"></div>
+        <div class="paper-grain" aria-hidden="true"></div>
+
+        <article class="scene-copy" id="sceneCopy">
+          <span class="seal" aria-hidden="true">К</span>
+          <p class="eyebrow">02 · THE THRESHOLD</p>
+          <h1>The Golden Gate</h1>
+          <p class="place">Old Kyiv · 11th century</p>
+          <p class="body-copy">A ceremonial entrance becomes a slow passage through branches, timber, stone, mist, and memory.</p>
+        </article>
+
+        <p class="scroll-note">Scroll to move the camera <span></span></p>
+        <div class="frame-counter"><span id="percent">00</span> / 100</div>
+      </div>
+    </section>
+
+    <section class="demo-end">
+      <p class="eyebrow">One screen · deterministic motion</p>
+      <h2>No video was generated.</h2>
+      <p>The camera effect comes from separated photographic ink layers, depth-based parallax, mist, paper texture, and scroll-controlled text timing.</p>
+      <a href="/">Return to the full story</a>
+    </section>
+  </main>
+  <script type="module" src="/motion-demo.js"></script>
+</body>
+</html>
